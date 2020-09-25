@@ -1,0 +1,21 @@
+{
+    "name": "tingyu/weixin_pay",
+    "description": "微信支付",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tingyu",
+            "email": "qiuyix@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "7.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tingyu\\WeixinPay\\": "src/"
+        }
+    }
+}
