@@ -1,8 +1,8 @@
 <?php
 /**
- * Created by singwa
- * User: singwa
- * motto: 现在的努力是为了小时候吹过的牛逼！
+ * Created by tingyu
+ * User: tingyu
+ * motto: 努力让自己变得更好
  * Time: 23:30
  */
 /**
